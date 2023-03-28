@@ -1,0 +1,14 @@
+1-My House-0-2-0-0-false-A modest house stands before you. This is your home.-0-0-0-0
+2-Plains-0-3-0-1-false-A large field stretches out in front of you. You feel a sense of adventure.-0-0-0-0
+3-Forest-4-5-0-2-false-The tall trees tower over you. A short goblin meanders about the area.-0-1-0-0
+4-Mountains-0-0-3-0-false-You can see for miles up here. Perhaps you can find something useful up here.-0-0-0-0
+5-Deep Forest-0-6-0-3-false-As you enter deeper into the forest, the light of the sun becomes faint. A large temple door stands before you.-0-1-0-0
+6-Lake-0-0-0-5-false-The temple door makes way to a beautiful lake. You are overcome with a sense of tranquility and peace...-0-0-0-0
+ROOMBREAK
+Crude Note-A note with crude handwriting. It reads, "PASSWERD IZ APPLE"-3
+Compass-With your trusty compass, you'll never get lost!-1
+Ancient Energy Core-This old energy core pulsates with a beautiful blue glow.-3
+ITEMBREAK
+Text-The goblin stands before you, blocking your passage to the next room. He shouts at you, "WHAT'S THE PASSWORD?"-APPLE-3-3-"YES THAT'S RIGHT! YUMMY IN PIE!" The goblin happily replies, as he moves out of your path.
+Item-A large temple door blocks your path, eminating a blue glow. There seems to be some kind of pedestal that's missing something next to it-Ancient Energy Core -5-5-The ancient temple door whirs to life, as the path forward opens in front of you.
+PUZZLEBREAK
